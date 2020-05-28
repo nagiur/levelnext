@@ -76,3 +76,18 @@ There is a built-in array method, `forEach`, that provides something like a `for
 // → B
 ```
 
+## Script data set
+> One area where higher-order functions shine is data processing. To process data, we’ll need some actual data. This chapter will use a data set about scripts
+> — writing systems such as Latin, Cyrillic, or Arabic.
+
+```javascript
+{
+  name: "Coptic",
+  ranges: [[994, 1008], [11392, 11508], [11513, 11520]],
+  direction: "ltr",
+  year: -200,
+  living: false,
+  link: "https://en.wikipedia.org/wiki/Coptic_alphabet"
+}
+```
+The ranges property contains an array of Unicode character ranges, each of which is a two-element array containing a lower bound and an upper bound. Any character codes within these ranges are assigned to the script. The lower bound is inclusive (code 994 is a Coptic character), and the upper bound is non-inclusive (code 1008 isn’t).
