@@ -144,3 +144,9 @@ console.log(map(rtlScripts, s => s.name));
 // → ["Adlam", "Arabic", "Imperial Aramaic", …]
 ```
 Like `forEach` and `filter`, *map* is a standard array method.
+
+## Summarizing with reduce
+## Composability
+## Strings and character codes
+## Recognizing text
+## Exercises
