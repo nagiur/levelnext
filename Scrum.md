@@ -1,5 +1,6 @@
+# Sprint planning
 
-# Daily Stand-up
+## Daily Stand-up
 
 
 Attendees: development team, scrum master, product owner
@@ -21,7 +22,7 @@ There's an implicit accountability in reporting what work you completed yesterda
 Pro TIp:
 Some teams use timers to keep everyone on track. Others toss a ball across the team to make sure everyone's paying attention. Many distributed teams use videoconferencing or group chat to close the distance gap. Your team is unique. Your stand up should be, too!
 
-# Retrospective
+## Retrospective
 
 Attendees: development team, scrum master, product owner
 
