@@ -8,10 +8,19 @@ Basic
 - Footer Bottom
 - About Page
 - News Page
-- 
+- Page Layout
+
+UX/UI
+---------------
+- Coloring
+- Typography
+- Goto top (Button)
+- Beautiful effect
+- Background
 
 Home
 ---------------
+
 User
 ---------------
 - Registration 
@@ -32,13 +41,6 @@ Advanced
   - Pie Chart
   - History
 
-Beautify
----------------
-- Coloring
-- Typography
-- Goto top (Button)
-- Beautiful effect
-- Background
 
 Mock
 ---------------
