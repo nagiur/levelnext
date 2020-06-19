@@ -1,7 +1,7 @@
 Backlog
 ===============
 
-Basic
+UX/UI Basic
 ---------------
 - Header Menu
 - Footer Top
@@ -10,7 +10,7 @@ Basic
 - News Page
 - Page Layout
 
-UX/UI
+UX/UI Advanced
 ---------------
 - Coloring
 - Typography
@@ -18,7 +18,7 @@ UX/UI
 - Beautiful effect
 - Background
 
-Home
+Home Page
 ---------------
 
 User
