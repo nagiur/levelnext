@@ -10,7 +10,7 @@ Assalamu alaikum,
     4. Which type of documents will be upload there?
     5. What type of scholership is there? 
     
-  I look forward to hearing from you soon.
+  I look forward to opportunity in you University.
 
 
 Yours sincerly
